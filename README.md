@@ -6,4 +6,4 @@
 >Started WebServer on port 8888...  
 >Press ^C to quit WebServer  
 
-`http://52.78.20.2:8888/`
+`http://localhost:8888/`
