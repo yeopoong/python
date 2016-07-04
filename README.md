@@ -1,4 +1,4 @@
-# BaseHTTPServer
+### BaseHTTPServer
 
 >$ python HttpServer.py  
 
@@ -9,3 +9,12 @@
 `http://localhost:8888/`
 
 >Hello World
+
+### SimpleHTTPServer
+
+>$ python -m SimpleHTTPServer 8888
+
+>[ec2-user@ip-172-31-1-254 python]$ python -m SimpleHTTPServer 8888   
+>Serving HTTP on 0.0.0.0 port 8888 ...
+
+
